@@ -1,4 +1,4 @@
-from nt import environ
+import os
 
 import requests
 import json
